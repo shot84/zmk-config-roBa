@@ -97,7 +97,7 @@
             bindings = <
 &kp Q             &kp W         &kp E      &kp R                    &lt 6 T                                            &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A             &kp S         &kp D      &kp F                    &kp G        &kp LS(LG(S))          &kp MINUS      &kp H        &kp J  &kp K      &kp L    &kp MINUS
-&mt LEFT_SHIFT Z  &kp X         &kp C      &kp V                    &kp B        &lt 4 EXCLAMATION      &kp QUESTION   &kp N        &kp M  &mkp MB1  &mkp MB2  &kp DOT
+&mt LEFT_SHIFT Z  &kp X         &kp C      &kp V                    &kp B        &lt 4 EXCLAMATION      &kp QUESTION   &kp N        &kp M  &mkp MB1  &mkp MB2  &lt 3 DOT
 &kp LCTRL         &kp LEFT_ALT  &kp LSHFT  &mt LEFT_GUI LANGUAGE_2  &lt 1 SPACE  &lt 3 LANGUAGE_1       &kp BACKSPACE  &lt 2 ENTER                             &kp COMMA
             >;
 
