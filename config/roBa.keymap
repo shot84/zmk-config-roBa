@@ -101,8 +101,8 @@
         NUM {
             bindings = <
 &kp TAB               &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp MINUS                                                   &kp LC(LEFT)           &kp LC(RIGHT)  &kp LC(UP_ARROW)  &kp LC(DOWN)  &kp LS(LG(LC(Z)))
-&kp N0                &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp COLON      &kp LC(LA(KP_NUMBER_0))      &kp UNDERSCORE  &kp LG(LEFT_BRACKET)   &kp AT_SIGN    &kp UP_ARROW      &trans        &kp PERCENT
-&mt LEFT_SHIFT SLASH  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp BACKSLASH  &kp EQUAL                    &kp PLUS        &kp LG(RIGHT_BRACKET)  &kp LEFT       &kp DOWN          &kp RIGHT     &kp BACKSLASH
+&kp N0                &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp COLON      &kp LC(LA(KP_NUMBER_0))      &kp UNDERSCORE  &kp LG(RIGHT_BRACKET)  &kp AT_SIGN    &kp UP_ARROW      &trans        &kp PERCENT
+&mt LEFT_SHIFT SLASH  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp BACKSLASH  &kp EQUAL                    &kp PLUS        &kp LG(LEFT_BRACKET)   &kp LEFT       &kp DOWN          &kp RIGHT     &kp BACKSLASH
 &kp LCTRL             &kp LEFT_SHIFT   &kp LALT         &kp LGUI         &kp ENTER      &kp LC(LS(S))                &trans          &trans                                                                &kp PIPE
             >;
         };
