@@ -32,6 +32,14 @@
         compatible = "zmk,input-listener";
         device = <&trackball>;
         input-processors = <&zip_temp_layer 4 10000>;
+        scroller {
+            layers = <3>;
+            input-processors = <&zip_xy_to_scroll_mapper>;
+        };
+        snipe {
+            layers = <1>;
+            input-processors = <&zip_xy_scaler 1 3>;
+        };
     };
 };
 
